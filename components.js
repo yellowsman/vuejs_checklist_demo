@@ -81,7 +81,7 @@ Vue.component('custom-header', {
 Vue.component('custom-main', {
   data: function() {
     return {
-      todos: [ 'い','ろ','は','に','ほ','へ','と' ]
+      todos: [ 'い','ろ','は','に','ほ','へ','と','' ]
     }
   },
   template: `
